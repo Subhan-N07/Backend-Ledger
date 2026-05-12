@@ -9,7 +9,7 @@ This project implements a backend ledger service that records and manages transa
 
 Ledger-based systems are commonly used in financial applications because they help maintain accurate records and transparency in transactions.</p>
 
-<b><ul>2. Objective of the Project</ul></b>
+<b>2. Objective of the Project</b>
 
 The main objectives of this project are:
 
@@ -25,7 +25,7 @@ The main objectives of this project are:
 
 The project uses modern backend technologies:
 
-<b>*Technology*</b>	         <b>*Purpose*</b>
+<b>*Technology*</b><t>	         <b>*Purpose*</b>
 
 (i)Node.js	                   Backend runtime
 
