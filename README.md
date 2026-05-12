@@ -1,7 +1,7 @@
 # Backend-Ledger
 A Ledger System is used to record financial transactions in a structured and organized way. In many modern applications such as banking systems, payment apps, and fintech platforms. This project implements a backend ledger service that records and manages transactions between accounts.
 
-<b>1. Introduction</b>
+<b><ul>1. Introduction</ul></b>
 
 <p>A Ledger System is used to record financial transactions in a structured and organized way. In many modern applications such as banking systems, payment apps, and fintech platforms, a backend ledger keeps track of every transaction and maintains the balance of users.
 
@@ -9,7 +9,7 @@ This project implements a backend ledger service that records and manages transa
 
 Ledger-based systems are commonly used in financial applications because they help maintain accurate records and transparency in transactions.</p>
 
-<b>2. Objective of the Project</b>
+<b><ul>2. Objective of the Project</ul></b>
 
 The main objectives of this project are:
 
@@ -21,11 +21,11 @@ The main objectives of this project are:
 
   (iv)To demonstrate how ledger systems work in real-world applications
 
-*3. Technologies Used*
+<b><ul>3. Technologies Used</ul></b>
 
 The project uses modern backend technologies:
 
-*Technology*	         *Purpose*
+<b>*Technology*</b>	         <b>*Purpose*</b>
 (i)Node.js	         Backend runtime
 
 (ii)Express.js	         API framework
@@ -35,7 +35,7 @@ The project uses modern backend technologies:
 (iv)REST API	         Communication between client and server
 
 
-*4. System Architecture*
+<b><ul>4. System Architecture</b></ul>
 
 The project follows a Backend API Architecture.
 
@@ -61,7 +61,7 @@ Workflow:
 User Request → Backend API → Business Logic → Database → Response
 
 
-*5. Modules of the System*
+<b><ul>5. Modules of the System</b></ul>
 
 1. Account Module
 
@@ -99,7 +99,7 @@ User Request → Backend API → Business Logic → Database → Response
 
      (iii)Ensure data integrity
 
-*6. Working Principle*
+<b><ul>6. Working Principle</b></ul>
 
 The system works using a ledger-based transaction model.
 
@@ -119,14 +119,14 @@ Step-by-Step Process
 
 This ensures that every transaction is logged and traceable.
 
-*7. Advantages*
+<b><ul>7. Advantages</b></ul>
 
 ✅ Accurate transaction tracking
 ✅ Easy financial record management
 ✅ Scalable backend system
 ✅ Useful for fintech and banking applications
 
-*8. Applications*
+<b><ul>8. Applications</b></ul>
 
 This system can be used in:
 
@@ -140,7 +140,7 @@ This system can be used in:
 
 (v)Fintech startups
 
-*9. Future Scope*
+<b><ul>9. Future Scope</b></ul>
 
 Future improvements can include:
 
@@ -154,6 +154,6 @@ Future improvements can include:
 
 (v)Implementing audit and reporting tools
 
-*10. Conclusion*
+<b><ul>10. Conclusion</b></ul>
 
 The Backend Ledger System demonstrates how financial transactions can be recorded and managed using backend technologies. The project highlights the importance of maintaining accurate records and provides a basic model that can be extended into real-world financial applications.
