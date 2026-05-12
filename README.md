@@ -1,7 +1,7 @@
 # Backend-Ledger
 A Ledger System is used to record financial transactions in a structured and organized way. In many modern applications such as banking systems, payment apps, and fintech platforms. This project implements a backend ledger service that records and manages transactions between accounts.
 
-<b><ul>1. Introduction</ul></b>
+<b>1. Introduction</b>
 
 <p>A Ledger System is used to record financial transactions in a structured and organized way. In many modern applications such as banking systems, payment apps, and fintech platforms, a backend ledger keeps track of every transaction and maintains the balance of users.
 
@@ -26,16 +26,17 @@ The main objectives of this project are:
 The project uses modern backend technologies:
 
 <b>*Technology*</b>	         <b>*Purpose*</b>
-(i)Node.js	         Backend runtime
 
-(ii)Express.js	         API framework
+(i)Node.js	                   Backend runtime
 
-(iii)Database	         Store accounts and transactions
+(ii)Express.js	               API framework
 
-(iv)REST API	         Communication between client and server
+(iii)Database	                 Store accounts and transactions
+
+(iv)REST API	                 Communication between client and server
 
 
-<b><ul>4. System Architecture</b></ul>
+<b>4. System Architecture</b>
 
 The project follows a Backend API Architecture.
 
@@ -61,7 +62,7 @@ Workflow:
 User Request → Backend API → Business Logic → Database → Response
 
 
-<b><ul>5. Modules of the System</b></ul>
+<b>5. Modules of the System</b>
 
 1. Account Module
 
@@ -126,7 +127,7 @@ This ensures that every transaction is logged and traceable.
 ✅ Scalable backend system
 ✅ Useful for fintech and banking applications
 
-<b><ul>8. Applications</b></ul>
+<b>8. Applications</b>
 
 This system can be used in:
 
@@ -140,7 +141,7 @@ This system can be used in:
 
 (v)Fintech startups
 
-<b><ul>9. Future Scope</b></ul>
+<b>9. Future Scope</b>
 
 Future improvements can include:
 
@@ -154,6 +155,6 @@ Future improvements can include:
 
 (v)Implementing audit and reporting tools
 
-<b><ul>10. Conclusion</b></ul>
+<b>10. Conclusion</b>
 
 The Backend Ledger System demonstrates how financial transactions can be recorded and managed using backend technologies. The project highlights the importance of maintaining accurate records and provides a basic model that can be extended into real-world financial applications.
