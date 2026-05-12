@@ -21,19 +21,19 @@ The main objectives of this project are:
 
   (iv)To demonstrate how ledger systems work in real-world applications
 
-<b><ul>3. Technologies Used</ul></b>
+<b>3. Technologies Used</b>
 
 The project uses modern backend technologies:
 
-<b>*Technology*</b><t>	         <b>*Purpose*</b>
+<b>*Technology*</b><t>	 ________               <b>*Purpose*</b>
 
-(i)Node.js	                   Backend runtime
+(i)Node.js	    ------>                  Backend runtime
 
-(ii)Express.js	               API framework
+(ii)Express.js	------>                  API framework
 
-(iii)Database	                 Store accounts and transactions
+(iii)Database	  ------>                  Store accounts and transactions
 
-(iv)REST API	                 Communication between client and server
+(iv)REST API	  ------>                  Communication between client and server
 
 
 <b>4. System Architecture</b>
